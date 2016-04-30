@@ -1,13 +1,10 @@
 Files in this folder:
 
 VerySimpleCPU.exe: Windows console program (run in a cmd window).
-libgnurx-0.dll: Library file required by VerySÝmpleCPU.exe.
+libgnurx-0.dll: Library file required by VerySimpleCPU.exe.
 VerySimpleCPU.py: Python version of VerySimpleCPU.exe (portable but not fully tested).
 test.asm: A meaningless program that you should use to test your design. It has every instruction it.
-          You should make sure the "after =" values of memory locations are correct after the program
-          runs on your VerySimpleCPU design. You should check memory locations in Xilinx ISIM simulator.
-          You may want to run also one or more of the programs you wrote in the lab such as recursive
-          factorial. See the lab folder one level above this file.
+          
 
 ---o---
 
